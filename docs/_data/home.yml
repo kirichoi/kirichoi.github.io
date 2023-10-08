@@ -1,0 +1,24 @@
+navbar_entries:
+  - title: about
+    url: index
+
+  - title: research
+    url: research
+  
+  - title: publications
+    url: publications
+  
+  - title: softwares
+    url: softwares
+    
+footer_entries:
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=vu7Ma2QAAAAJ&hl=en
+
+  - title: twitter
+    url: https://twitter.com/kirichoi
+
+  - title: github
+    url: https://github.com/kirichoi
+
+
