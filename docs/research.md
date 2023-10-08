@@ -2,6 +2,14 @@
 layout: page
 title: Research
 permalink: /research/
+carousels:
+  - images: 
+    - image: assets/R1/1.png
+  - images: 
+    - image: assets/R3/1.png
+  - images: 
+    - image: assets/R4/1.png
+	- image: assets/R4/2.png
 ---
 
 # Olfactory Coding and Decision Making
