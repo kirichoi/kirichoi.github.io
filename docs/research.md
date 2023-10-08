@@ -16,7 +16,7 @@ carousels:
 
 Organisms navigate their surroundings using information inferred from the spatially and temporally complex odor plume. I am interested in understanding the principle behind the neural processing of how a brain encodes, perceives, and makes decisions accordingly. 
 
-{% include carousel.html height="50" unit="%" duration="7" dir="assets/R1" %}
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 1. **K. Choi**, W.K. Kim, C. Hyeon. In Press. “Unveiling the Odor Representation in the Inner Brain of Drosophila through Compressed Sensing.” [10.1101/2023.07.19.549810.](https://doi.org/10.1101/2023.07.19.549810)
 
@@ -32,7 +32,7 @@ The olfactory signals are generated through a complex ligand-receptor binding pr
 
 The spatial distribution and structures of neurons are diverse. These physical properties shape the complex neural dynamics observed in the brain which are poorly understood. I study the structure-function relationship in neural processing using large-scale data analysis that utilizes the latest connectomics and reconstruction datasets. Integrating the concepts from information theory, I use compartmental neuron models to understand the effect of structural properties on the function of single neurons and small neural circuits.
 
-{% include carousel.html height="50" unit="%" duration="7" dir="assets/R3" %}
+{% include carousel.html height="50" unit="%" duration="7" number="2" %}
 
 1. **K. Choi**, W.K. Kim, C. Hyeon. 2022. “Olfactory responses of Drosophila are encoded in the organization of projection neurons.” eLife. 11, e77748. [10.7554/eLife.77748.](https://doi.org/10.7554/eLife.77748)
 
@@ -45,7 +45,7 @@ The spatial distribution and structures of neurons are diverse. These physical p
 
 Biological processes are complex, requiring advanced software tools and algorithms to understand. I develop tools to analyze biological networks such as biochemical reactions, neural networks, and signaling networks. I am also interested in high-throughput optimization algorithms, network inference techniques, and novel clustering algorithms for biological systems. I work to improve model reuse and reproducibility in biological models.
 
-{% include carousel.html height="50" unit="%" duration="7" dir="assets/R4" %}
+{% include carousel.html height="50" unit="%" duration="7" number="3" %}
 
 1. **K. Choi**, J.K. Medley, M. König, K. Stocking, L. Smith, S. Gu, H.M. Sauro. 2018. “Tellurium: An Extensible Python-based Modeling Environment for Systems and Synthetic Biology.” BioSystems. 171, 74–79. [10.1016/j.biosystems.2018.07.006.](https://doi.org/10.1016/j.biosystems.2018.07.006)
 
