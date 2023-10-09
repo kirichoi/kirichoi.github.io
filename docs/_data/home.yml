@@ -1,24 +1,30 @@
 navbar_entries:
   - title: about
-    url: index
+    url: /index/
 
   - title: research
-    url: research
+    url: /research/
   
   - title: publications
-    url: publications
+    url: /publications/
   
   - title: softwares
-    url: softwares
+    url: /softwares/
     
 footer_entries:
-  - title: Google Scholar
+  - title: google scholar
     url: https://scholar.google.com/citations?user=vu7Ma2QAAAAJ&hl=en
 
   - title: twitter
-    url: https://twitter.com/kirichoi
+    url: https://twitter.com/kiri_choi
 
   - title: github
     url: https://github.com/kirichoi
+    
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Kiri-Choi
+  
+  - title: orcid
+    url: https://orcid.org/0000-0002-0156-8410
 
 

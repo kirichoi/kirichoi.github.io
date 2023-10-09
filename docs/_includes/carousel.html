@@ -27,7 +27,7 @@
         <div class="carousel__track">
           <ul>
             {% for item in page.carousels[number].images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+			<li class="carousel__slide"><a href="{{ item.image }}" data-lightbox="{{ item.image }}"><img src="{{ item.image }}" /></a></li>
             {% endfor %}
           </ul>
         </div>
@@ -88,7 +88,7 @@
   cursor: pointer;
   border-width: 5px 5px 0 0;
   border-style: solid;
-  border-color: #fafafa;
+  border-color: lightgray;
   opacity: 0.35;
   opacity: 1;
   outline: 0;
@@ -168,7 +168,7 @@
   width: 30px;
 }
 .carousel__indicator {
-  background-color: #fafafa;
+  background-color: lightgray;
 }
 {% for item in page.carousels[number].images %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
