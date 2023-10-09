@@ -22,6 +22,7 @@ title: Kiri Choi
 author: Kiri Choi
 email: kiri (dot) choi (at) yale (dot) edu
 description: "" # this means to ignore newlines until "baseurl:"
+baseurl: "/index/"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:slug
