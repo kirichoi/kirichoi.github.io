@@ -1,6 +1,6 @@
 navbar_entries:
   - title: about
-    url: /index/
+    url: /about/
 
   - title: research
     url: /research/
