@@ -18,7 +18,7 @@ permalink: /about/
   <div class="column" style="margin-left: 6cm;">
   <p class="padding">
   I am interested in understanding how the brain encodes and processes olfactory information to make appropriate decisions. 
-  Using computational and behavioral neuroscience approaches, I investigate information processing in insect olfactory systems, with a focus on *Drosophila*. 
+  Using computational and behavioral neuroscience approaches, I investigate information processing in insect olfactory systems, with a focus on <em>Drosophila</em>. 
   I am currently a postdoctoral fellow at Emonet Lab at Yale University, supported by the Swartz Foundation Fellowship, where I study olfactory receptors and odor-guided navigation. 
   <br>
   <br>
